@@ -18,9 +18,7 @@
 [FlutterFlow responsive WEB showcase](https://main--ornate-licorice-ac07bd.netlify.app/)
 
 
-
-[screencast-github.com-2023.04.20-12_19_01.webm](https://user-images.githubusercontent.com/129328468/233325457-e31c1092-cbf5-4db6-a169-80eede8fbd98.webm)
-
+[Video demonstration:](https://github.com/rulkav/flutterflow_responsive-web/assets/47982610/ff1e488b-e949-45ff-9648-12d2e598298d)
 
 
 ## How to run the app
